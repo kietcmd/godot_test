@@ -15,3 +15,9 @@ offset_bottom = 40.0
 [node name="Icon" type="Sprite2D" parent="."]
 position = Vector2(202, 125)
 texture = ExtResource("1_svt0e")
+
+[node name="HSlider" type="HSlider" parent="."]
+offset_left = 327.0
+offset_top = 106.0
+offset_right = 509.0
+offset_bottom = 161.0
